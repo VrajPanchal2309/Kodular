@@ -20,4 +20,4 @@ Aia file :- [Wallpaper Aia](https://community.kodular.io/uploads/short-url/s22sE
 
 If you got any error simply knock me till then happy koding :slightly_smiling_face: and don't forget to hit  :+1:
 
-![Kodular Community Link](https://community.kodular.io/t/wallpaper-app-change-apps-wallpaper-in-background/136707)
+<a href="https://community.kodular.io/t/wallpaper-app-change-apps-wallpaper-in-background/136707">Kodular Community Link</a>
