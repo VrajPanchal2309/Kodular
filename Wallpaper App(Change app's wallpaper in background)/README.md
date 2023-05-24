@@ -12,7 +12,7 @@ Screenshots :-
 
 Demo Video :-
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/PosppDdFQJ8/mq1.webp?sqp=CND-tqMG-oaymwEmCMACELQB8quKqQMa8AEB-AHOBYAC5AaKAgwIABABGGQgZShbMA8=&rs=AOn4CLAFq3sLR3FMqbQMDXEhdbiOY4vppw)](https://youtu.be/PosppDdFQJ8)
+[![Watch the video]()](https://youtu.be/PosppDdFQJ8)
 
 Test app :- [AutoWallpaperChanger.apk](https://community.kodular.io/uploads/short-url/digilmzqyJFFm6RihxkaeJSeIeZ.apk) (6.4 MB)
 
