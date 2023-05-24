@@ -10,7 +10,7 @@ Screenshots : -
 
 A Video for you -
 
-![Watch the Video (Contains Animation)]("https://res.cloudinary.com/dlwbp2or4/video/upload/v1624042194/IMG_20210619_001041_821_rsydyu.mp4")
+!["Watch the Video (Contains Animation)"](https://res.cloudinary.com/dlwbp2or4/video/upload/v1624042194/IMG_20210619_001041_821_rsydyu.mp4)
 
 Hit a 👍 if you like my work 😀
 
