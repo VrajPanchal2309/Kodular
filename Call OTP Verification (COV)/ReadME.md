@@ -34,3 +34,5 @@
 
 **Test App - [Call_OTP_Verification.apk](https://community.kodular.io/uploads/short-url/sznsPuNIgLnAbsIWCFEDcs1pooU.apk)**
 **Aia - [Call_OTP_Verification.aia](https://community.kodular.io/uploads/short-url/psX8Cl7bbEeZkwlwk7lQYLPQ6A5.aia)**
+
+![Kodular Community Link]("https://community.kodular.io/t/call-otp-verification-cov/164078/1")
