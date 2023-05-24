@@ -10,8 +10,8 @@ Screenshots : -
 
 A Video for you -
 
-!["Watch the Video (Contains Animation)"](https://res.cloudinary.com/dlwbp2or4/video/upload/v1624042194/IMG_20210619_001041_821_rsydyu.mp4)
+ <a href="https://res.cloudinary.com/dlwbp2or4/video/upload/v1624042194/IMG_20210619_001041_821_rsydyu.mp4">Watch the Video (Contains Animation)</a> 
 
 Hit a 👍 if you like my work 😀
 
-![Kodular Community Link](https://community.kodular.io/t/new-sign-up-and-log-in-ui/127534)
+ <a href="https://community.kodular.io/t/new-sign-up-and-log-in-ui/127534">Kodular Community Link</a> 
