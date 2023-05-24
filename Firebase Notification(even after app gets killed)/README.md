@@ -24,5 +24,4 @@ AND Set Foreground to true not false
 
 <img height="100" src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/original/3X/3/a/3aba93ed71c024af4a3717ceecaffd8f35ea445f.png"></img>
 
-
-![Kodualar Community Link]("https://community.kodular.io/t/firebase-notification-even-after-app-gets-killed/128586/1")
+<a href="https://community.kodular.io/t/firebase-notification-even-after-app-gets-killed/128586/1">Kodualar Community Link</a>
