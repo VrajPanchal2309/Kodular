@@ -11,3 +11,4 @@ This repository consists of all my contributions towards Kodular Community
 * ![Search View with Position(Dynamically)](https://github.com/vrajpanchal2309/Kodular/tree/main/Search%20View%20with%20Position(Dynamically))
 * ![ Snow Fall App [Created in background]](https://github.com/vrajpanchal2309/Kodular/tree/main/Snow%20Fall%20App%20%5BCreated%20in%20background%5D)
 * ![Swipe Message App](https://github.com/vrajpanchal2309/Kodular/tree/main/Swipe%20Message%20App)
+* ![Dynamic Bharat Chat with text,image,video, audio, file and stickers (updated)](https://github.com/vrajpanchal2309/Kodular/tree/main/Dynamic%20Bharat%20Chat%20with%20text%2Cimage%2Cvideo%2C%20audio%2C%20file%20and%20stickers%20(updated))
