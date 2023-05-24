@@ -19,3 +19,5 @@ Test app :- [AutoWallpaperChanger.apk](https://community.kodular.io/uploads/shor
 Aia file :- [Wallpaper Aia](https://community.kodular.io/uploads/short-url/s22sE1Z7mNvX5Z3Ekk8HPiwWszb.aia)
 
 If you got any error simply knock me till then happy koding :slightly_smiling_face: and don't forget to hit  :+1:
+
+![Kodular Community Link](https://community.kodular.io/t/wallpaper-app-change-apps-wallpaper-in-background/136707)
